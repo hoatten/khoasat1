@@ -1,0 +1,40 @@
+
+.dangky {
+    background-color: #f8f8f8;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.index-title {
+    font-family: 'Arial Black', sans-serif;
+    color: #2271b1;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+}
+
+.form-control:focus {
+    outline: none;
+    box-shadow: 0px 0px 3px rgba(0, 120, 255, 0.6);
+}
+
+.dangkybt {
+    background-color: #00a2ff;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.dangkybt:hover {
+    background-color: #007acc;
+}
